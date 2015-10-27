@@ -1,0 +1,25 @@
+{
+  "name": "monera-style",
+  "version": "1.0.0",
+  "description": "A touch of Art for monera kingdom",
+  "main": "Gulpfile.js",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.5",
+    "gulp": "^3.9.0",
+    "gulp-if": "^1.2.5"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  },
+  "scripts": {
+    "run": "gulp sass"
+  },
+  "keywords": [
+    "sass",
+    "css",
+    "bootstrap"
+  ],
+  "author": "Mauro Mandracchia",
+  "license": "MIT"
+}
