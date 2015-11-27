@@ -6,9 +6,9 @@
   "dependencies": {
     "bootstrap-sass": "^3.3.5",
     "gulp": "^3.9.0",
-    "gulp-if": "^1.2.5",
     "gulp-sass": "^2.0.4",
-    "underscore": "^1.8.3"
+    "materialize-css": "^0.97.3",
+    "yargs": "^3.30.0"
   },
   "scripts": {
     "run": "gulp sass"
