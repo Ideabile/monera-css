@@ -1,7 +1,7 @@
 {
   "name": "monera-style",
   "version": "1.0.0",
-  "description": "A touch of Art for monera kingdom",
+  "description": "A touch of Art for monera kingdom, a sass compiler.",
   "main": "Gulpfile.js",
   "dependencies": {
     "bootstrap-sass": "^3.3.5",

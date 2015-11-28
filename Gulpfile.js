@@ -3,7 +3,7 @@ var gulp = require('gulp'),
     sass = require('gulp-sass'),
     // Parameters needed for compile and watch
     options = yargs.default({
-      origin: './src/bootstrap/index.scss',
+      origin: './bootstrap/index.scss',
       destination: './css'
     }).argv;
 
